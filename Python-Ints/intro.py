@@ -1,3 +1,22 @@
+num = 3
+print(type(num))
+
+Arithmetic Operators:
+# Addition: 3 + 2
+# Subtraction: 3 - 2
+# Multiplication: 3 * 2
+# Division: 3 / 2
+# Floor Division: 3 // 2
+# Exponent: 3 ** 2
+# Modulus: 3 % 2
+
+print(3 + 2)
+print(3 - 2)
+print(3 * 2)
+print(3 / 2)
+print(3 // 2)
+print(3 ** 2)
+print(3 % 2)
 
 num_1 = '100'
 num_2 = '200'
